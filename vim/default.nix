@@ -60,7 +60,7 @@
     };
 
     dashboard = {
-      dashboard-nvim.enable = false;
+      dashboard-nvim.enable = true;
       alpha.enable = false;
     };
 
